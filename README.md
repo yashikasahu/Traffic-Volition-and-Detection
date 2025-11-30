@@ -35,7 +35,7 @@ Can integrate with traffic police alert systems
 <img width="844" height="585" alt="Screenshot 2025-05-11 174534" src="https://github.com/user-attachments/assets/214ce8cf-741c-4cf6-8df2-03259835f7e1" />
 
 
-<h3>4. Real-Time Violation Capture
+<h3>4. Real-Time Violation Capture</h3>
 <img width="529" height="303" alt="Screenshot 2025-05-11 173220" src="https://github.com/user-attachments/assets/547c7826-7860-4fbe-b6d6-f8950444cb5f" />
 
 <h1>🧠 How It Works</h1>
